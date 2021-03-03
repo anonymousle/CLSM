@@ -1,6 +1,6 @@
-## Variation Results
+# Variation Results
+## 1~4 bars
 <table>
-<caption><b> 1~4 bars </b></caption>
   <tr>
     <td style="text-align: center; vertical-align: middle;"><b>original</b></td>
     <td style="text-align: center; vertical-align: middle;"><b>generated</b></td>
